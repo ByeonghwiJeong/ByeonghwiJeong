@@ -1,11 +1,11 @@
 ## :: 😄Welcome to Byeonghwi's Github
 
 
-### :: Github Stats
+### :: 🖥️Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ByeonghwiJeong&show_icons=true&theme=dracula">
 
-### :: Solved.ac
+### :: ✍🏻Solved.ac
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdqudgnl" width="450">
 
