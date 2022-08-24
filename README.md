@@ -7,7 +7,7 @@
 
 ### :: Solved.ac
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdqudgnl" width="500">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdqudgnl" width="450">
 
 ### :: 📚Stack
 
